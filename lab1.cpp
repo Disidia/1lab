@@ -83,7 +83,7 @@ switch (y)
         case 3:
         {
         double d;
-        d= sqrt(a^2 + b^2);
+        d= sqrt(((a^2) + (b^2)));
         cout << " диагональ равна" << d << endl;
         break;
         }
@@ -92,7 +92,6 @@ switch (y)
         break;
     }
     default:
-    cout << "Введено неверное значение "<< endl;
     break;
  }
  break;
