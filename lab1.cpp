@@ -92,7 +92,6 @@ switch (y)
         break;
     }
     default:
-    cout << "Введено неверное значение "<< endl;
     break;
  }
  break;
