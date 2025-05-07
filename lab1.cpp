@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 int x;
+cout<< "комент"<<endl;
 cout<< "Выберите фигуру. 1- окружность 2- прямоугольник"<< endl;
 cin>> x;
 switch(x)
